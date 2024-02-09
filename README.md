@@ -1,2 +1,2 @@
-# Hafiza_kart_oyunu
-Kart eşleştirme oyunu
+# Hafıza kart oyunu
+Süreli bir şekilde denemeleri ve doğruları sayan kart eşleştirme oyunu
